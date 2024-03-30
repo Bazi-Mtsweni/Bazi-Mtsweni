@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bazi-Mtsweni
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning back-end
+- 👀 I’m a somewhat full-stack developer
+- 🌱 95% - Web Frontend  |  75% Web Backend  |  80% Web Database Design
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me, visit Bazi Mtsweni on facebook
+- 📫 How to reach me, email bazi@explosiveartworks.co.za
 
 <!---
 Bazi-Mtsweni/Bazi-Mtsweni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
